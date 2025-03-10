@@ -1,11 +1,5 @@
 <h2 align="left">Merhaba! Benim Adım Efe Yazılımla Uğraşıyorum. Sizlere Bedava Proje Paylaşacağım.</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Efe113&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=true&custom_title=%C4%B0statistiklerim" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Efe113&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&custom_title=En%20%C3%87ok%20Kulland%C4%B1%C4%9F%C4%B1m%20Diller" height="150" alt="languages graph"  />
-</div>
 
 ###
 
